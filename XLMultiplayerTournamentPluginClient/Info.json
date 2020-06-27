@@ -1,0 +1,4 @@
+﻿{
+  "AssemblyName": "XLMultiplayerTournamentPluginClient.dll",
+  "StartupMethod": "XLMultiplayerTournamentPluginClient.PluginMain:Load"
+}

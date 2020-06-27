@@ -1,0 +1,7 @@
+﻿{
+  "Name": "XXL Stat Enforcement",
+  "AssemblyName": "XLMultiplayerTournamentPlugin.dll",
+  "StartupMethod": "XLMultiplayerTournamentPlugin.Main:Load",
+  "ServerVersion": "0.9.1",
+  "DependencyZIP": "XLMultiplayerTournamentPluginClient.zip"
+}
